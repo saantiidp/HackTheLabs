@@ -1,4 +1,4 @@
-# Buda (TheHackersLabs) — Writeup EXTREMO centrado en **SQL Injection con sqlmap**
+# Buda (TheHackersLabs) — Writeup centrado en **SQL Injection con sqlmap**
 
 > **Enfoque intencional de este documento**
 >
